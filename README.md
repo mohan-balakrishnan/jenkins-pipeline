@@ -20,4 +20,4 @@
    ```
    
 3. **Verifying the Application**
-   Open a web browser and navigate to 'http://Public_Ip/leaf' to verify the application is running successfully.
+   Open a web browser and navigate to 'http://Public_IP/leaf' to verify the application is running successfully.
