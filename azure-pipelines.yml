@@ -19,7 +19,7 @@ steps:
  
   - task: PublishBuildArtifacts@1
     inputs:
-      pathtoPublish: '$(System.DefaultWorkingDirectory)/target'  # Path to your artifact(s)
+      pathtoPublish: '$(System.DefaultWorkingDirectory)/target'  # Path to your artifacts
       artifactName: 'Leafhub'  # Name of the artifact to publish.
  
   - task: CopyFiles@2
