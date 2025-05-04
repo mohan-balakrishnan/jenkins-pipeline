@@ -6,7 +6,7 @@
 ## Steps to Build and Run
 
 1. **Build the Docker Image**  
-   Run the following command to build the Docker image:
+   Run the following command to build the Docker image: 
 
    ```bash
    docker build -t leafhub:latest .
