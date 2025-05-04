@@ -1,7 +1,7 @@
 # Building and Running the Docker File for Dev App
 
 ## Prerequisites
-- Docker must be installed and running on your system.
+- Docker must be installed and running on your system..
 
 ## Steps to Build and Run
 
